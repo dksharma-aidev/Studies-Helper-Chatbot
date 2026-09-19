@@ -1,0 +1,4 @@
+.env
+secret.txt
+*.m3u
+__pycache__/
