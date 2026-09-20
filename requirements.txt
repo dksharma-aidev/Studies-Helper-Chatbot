@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+PyAudio
+wikipedia-api
+python-dotenv
+ollama

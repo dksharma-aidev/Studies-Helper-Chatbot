@@ -1,4 +1,10 @@
+Secrets and logs - never commit these
 .env
+*.log
 secret.txt
-*.m3u
+
+# Python
 __pycache__/
+*.pyc
+venv/
+.venv/
